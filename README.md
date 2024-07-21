@@ -1,3 +1,3 @@
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm César. This is a repository for Full Stack Open project from Helsinki University.
